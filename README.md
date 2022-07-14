@@ -19,3 +19,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 License
 MIT
+
+![Kodluyoruz resim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
